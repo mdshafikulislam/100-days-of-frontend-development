@@ -118,6 +118,5 @@ header label {
   }
   #menu-bar:checked ~ nav {
     display: initial;
-    /* display: initial; */
   }
 }
